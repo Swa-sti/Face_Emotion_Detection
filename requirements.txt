@@ -7,7 +7,6 @@ notebook
 tqdm
 opencv-contrib-python
 
-
 images                       labels
 images/angry/swasti.png      angry
 images/angry/s.png           angry
